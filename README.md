@@ -17,3 +17,7 @@ resolutions for wallpapers and other background personalization.
 ## ✨ Credits
 Created with care and structure by ChatGPT in collaboration with Tony,  
 who pushed for clarity, precision, and future usability.
+
+## License
+This project is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+You are free to share and adapt the logo, provided that you give proper credit.
