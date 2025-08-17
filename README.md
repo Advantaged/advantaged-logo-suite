@@ -19,5 +19,6 @@ Created with care and structure by ChatGPT in collaboration with Tony,
 who pushed for clarity, precision, and future usability.
 
 ## ⚖️ License
-This project is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
-You are free to share and adapt the logo, provided that you give proper credit.
+This project is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).  
+You are free to share and adapt the logo and related assets for personal and community use,  
+provided that you give proper credit and **do not use them for commercial purposes**.
