@@ -21,5 +21,5 @@ provided that you give proper credit and **do not use them for commercial purpos
 
 ---
 ## ✨ Credits
-Created with care and structure by ChatGPT in collaboration with Tony Advantaged,  
+Created with care and structure by ChatGPT in collaboration with tony advantaged,  
 who pushed for clarity, precision, and future usability.
