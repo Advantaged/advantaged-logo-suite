@@ -8,7 +8,7 @@ All vector sources are annotated with comments to make scaling, color, and
 position adjustments straightforward. Raster exports are provided in multiple 
 resolutions for wallpapers and other background personalization.
 
-## 📂 Structure
+## 🗂️ Structure
 - `Vector_Master_Files/` → Original editable vector sources (SVG, EPS, PDF).
 - `Printing_Shops/` → High-quality vectors & print-ready formats.
 - `CNC_Laser_Shops/` → DXF + simplified SVGs for cutting/engraving.
